@@ -5,7 +5,7 @@
 </p>
 
 <samp>
-    I have experience as a Web Developer working with different frameworks since 2015. I like challenges and learn new technologies. My fundamental pillars are perseverance and effort. I'm currently learning and growing my skillset in backend, symfony and DDD.
+    I have experience as a Web Developer working with different frameworks since 2015. I like challenges and learn new technologies. My fundamental pillars are perseverance and effort.
 </samp>
 
 ### Languages and Tools
@@ -21,7 +21,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg" alt="TailwindCSS" height="30" width="40" />
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg" alt="SASS" height="30" width="40" />
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML5" height="30" width="40" />
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker" height="30" width="40" />
 </p>
 
 <h3>Where to find me</h3>
